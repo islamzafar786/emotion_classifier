@@ -42,6 +42,13 @@ bert_evaluation_report.txt
 table_form_comparison_report.txt
 
 # -------------------------
+# Jupyter / logs (optional)
+# -------------------------
+*.ipynb
+lightning_logs/
+runs/
+
+# -------------------------
 # OS / editor junk
 # -------------------------
 .DS_Store
